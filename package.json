@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "blessed": "^0.1.81",
-    "blessed-contrib": "^4.8.18",
+    "blessed-contrib": "^4.9.0",
     "blocked": "^1.2.1",
     "commander": "^4.0.1",
     "cross-spawn": "^7.0.1",
